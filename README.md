@@ -1,5 +1,5 @@
 ## How to Rice Your WSL Terminal v1.0.0
-<center> ![intro](./demo/img4.png) </center>
+![intro](./demo/img4.png)
 ### Initial Setup
 
 First off, I believe you have already installed WSL in your Windows Terminal. If not, just run the following command:
