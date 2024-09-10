@@ -1,5 +1,5 @@
 ## How to Rice Your WSL Terminal v1.0.0
-<center>![intro](./demo/img4.png)</center>
+<center> ![intro](./demo/img4.png) </center>
 ### Initial Setup
 
 First off, I believe you have already installed WSL in your Windows Terminal. If not, just run the following command:
@@ -25,7 +25,7 @@ sudo apt upgrade -y # This will upgrade all the required packages that need upgr
 - Most of the options are left by default, but you can still select them to fit your liking.
 - Go to Additional Settings > Appearance. You should see a window similar to mine:
 
-  ![Pasted image 20240725173639.png](./demos/img1.png)
+  ![Pasted image 20240725173639.png](./demo/img1.png)
 
 ### Customization
 
